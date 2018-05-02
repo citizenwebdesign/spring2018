@@ -2,4 +2,5 @@
 	background-color: lightgreen;
 	color: blue ;
 }
-h3{margin-left: 2px}
+h3{margin-left: 2 px}
+p.solid {border-style: solid;}
